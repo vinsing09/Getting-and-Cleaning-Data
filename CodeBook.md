@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project CodeBook
 
-This file describes variables, data, and transformations performed to clean up the data.
+This file describes variables and transformations performed to clean up the data.
 
 A full description of original data is available at where was obtained:
 
